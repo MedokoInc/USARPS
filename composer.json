@@ -1,0 +1,15 @@
+{
+    "name": "medoko/usarps",
+    "autoload": {
+        "psr-4": {
+            "Medoko\\Usarps\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nekonyx13",
+            "email": "corvin.prath@gmail.com"
+        }
+    ],
+    "require": {}
+}
