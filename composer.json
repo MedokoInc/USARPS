@@ -11,5 +11,17 @@
             "email": "corvin.prath@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "doctrine/orm": "^2.12",
+        "doctrine/dbal": "^3.3",
+        "doctrine/annotations": "^1.13",
+        "symfony/yaml": "^6.0",
+        "symfony/cache": "^6.0",
+        "symfony/orm-pack": "^2.2",
+      "ext-json": "*"
+    },
+    "require-dev": {
+        "symfony/maker-bundle": "^1.42",
+        "doctrine/data-fixtures": "^1.5"
+    }
 }
